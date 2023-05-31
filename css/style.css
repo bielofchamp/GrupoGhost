@@ -42,6 +42,7 @@ li:hover{
 
 a{
     text-decoration: none;
+    color: red;
     
 }
 
@@ -69,4 +70,8 @@ form{
     font:normal;
     font-size: 15px;
     font-family:"arial";
+}
+
+input{
+    margin-left: 20px;
 }
